@@ -3,7 +3,7 @@
 Me especializo en encontrar Bugs ya sea en pruebas manuales o automáticas.
 [LinkedIn](https://www.linkedin.com/in/danielbarronqa)
 
- -Actualmente certificado por TripleTen Bootcam
+ -Actualmente certificado por TripleTen Bootcamp
 
 ### Tecnologías
 
